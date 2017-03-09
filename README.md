@@ -4,10 +4,9 @@
 
 **Due Date: Week 7 - Midnight of 3/8/2017**
 
-## Assignment Specification
+## How It Works?
 
-Develop a ToDo List that allows users to manage tasks.
-* It should allow the user to create, read(diplay), edit and delete tasks.
+* The TODO list consists of 3 sections: (1)Add Item (2)TODO (3)Completed.
 * Pick and use a standard library for CSS styling. My recommendation is [Materialize CSS](http://materializecss.com/)
 * Your designs **must** be [responsive](https://developers.google.com/web/tools/chrome-devtools/device-mode/emulate-mobile-viewports)
 * Take care of proper positioning of the UI elements
