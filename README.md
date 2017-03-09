@@ -15,7 +15,7 @@
 
 
 ## Resources
-* [Google Chrome Responsive Tools](https://developers.google.com/web/tools/chrome-devtools/device-mode/emulate-mobile-viewports)
-* [Materialize CSS](http://materializecss.com/)
-* [Semantic UI Kit](http://semantic-ui.com)
-* [Twitter Bootstrap](http://getbootstrap.com/)
+
+* How TO - The To Do List [https://www.w3schools.com/howto/howto_js_todolist.asp]
+* Simple to-do List - From Teamtreehouse Course on Basics of Javascript 
+
